@@ -1,2 +1,2 @@
-# ObjectFactory_Java_OOP
+# object-factory-demo
 A simple Object factory implemented in Java
